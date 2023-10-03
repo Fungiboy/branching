@@ -72,3 +72,4 @@ initial input parsing (inte bra)
 //Fungiboy/master -> initial commit -> add input -> (Fungiboy/input-parsing -> init input parsing -> next input parsing) -> git push -u -> 
 // origin / input parsing -> clone -> Fungiboy /input-parsing -> next input parsing
 
+Console.WriteLine("Hello, Lukas!");
